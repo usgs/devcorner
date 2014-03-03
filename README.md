@@ -1,4 +1,12 @@
-devcorner
+The ANSS/NEIC Developer's Corner Repository
 =========
+Introduction
+------------
+The National Earthquake Information Center produces a great deal of earthquake information, and
+has created a number of different software tools that allow internal and external users to access that 
+information.  This github repository will serve as place to find links to those software tools.
 
-This meta-repository will serve as a reference location for a number of github repositories sharing ANSS ComCat-related code.
+ComCat Wrapper Libraries and Demonstration Code
+-----------------------------------------------
+* <a href="http://comcat.cr.usgs.gov/fdsnws/event/1/">ComCat Search API</a>. This is the site of the base web search API, on which the rest of the libraries/command line tools listed here are using.
+* <a href="https://github.com/mhearne-usgs/libcomcat">Python libcomcat</a>.  This repository houses Python library code and some command line tools for accessing
