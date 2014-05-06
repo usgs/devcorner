@@ -1,4 +1,4 @@
-The ANSS/NEIC Developer's Corner
+The ANSS Developer's Corner
 =========
 Introduction
 ------------
